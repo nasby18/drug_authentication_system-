@@ -1,8 +1,8 @@
 # drug_authentication_system-
 
- AI-DRIVEN DRUG AUTHENTICATION, VERIFICATION AND PUBLIC EDUCATION SYSTEM
+ # AI-DRIVEN DRUG AUTHENTICATION, VERIFICATION AND PUBLIC EDUCATION SYSTEM
 
-I-Powered Barcode Scanning and Drug Authentication
+## I-Powered Barcode Scanning and Drug Authentication
     • Mobile Application Development: Develop a mobile app that allows users to scan the barcode or QR code on drug packaging. The app should connect to a central, government-managed database containing records of all registered pharmaceuticals in Tanzania.
     • Real-Time AI Verification: When a user scans a barcode, the app verifies the drug’s authenticity by cross-referencing it with the central database. If the drug is legitimate, the app should display detailed information including:
         ◦ Drug Name
@@ -17,9 +17,9 @@ I-Powered Barcode Scanning and Drug Authentication
         ◦ A clear message stating that the drug is fake.
         ◦ Information on the potential risks associated with using counterfeit drugs, including health hazards, side effects, and possible legal consequences.
         ◦ Guidance on what steps to take next, such as how to report the counterfeit drug to authorities and where to seek genuine medication.
-User Feedback Loop
+## User Feedback Loop
     • Allow users to provide feedback about the drug and report any issues they encounter. This feedback can be used to enhance the AI’s detection capabilities and improve the app's accuracy over time.
-    • Interactive Chatbot Integration
+## Interactive Chatbot Integration
     • AI-Powered Chatbot: Integrate an AI chatbot that engages users when a drug is flagged. The chatbot should:
         ◦ Explain potential issues with the flagged drug.
         ◦ Provide safety advice and information on the risks of counterfeit drugs.
